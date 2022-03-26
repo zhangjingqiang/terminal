@@ -15,5 +15,4 @@
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 - [bat](https://github.com/sharkdp/bat) - A cat clone with wings.
-- [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [cheat](https://github.com/cheat/cheat) - Create and view interactive cheatsheets on the command-line
