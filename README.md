@@ -2,6 +2,7 @@
 
 - [Alacritty](https://alacritty.org/) - A cross-platform, OpenGL terminal emulator.
 - [Starship](https://starship.rs/) - Cross-Shell Prompt
+- [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator, collection, and patcher
 - [bat](https://github.com/sharkdp/bat) - A cat clone with wings
 - [dog](https://dns.lookup.dog/) - A command-line DNS client
 - [exa](https://the.exa.website/) - A modern replacement for ls
