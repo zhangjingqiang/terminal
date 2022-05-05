@@ -9,6 +9,8 @@
 - [Fig](https://fig.io/) - Fig adds autocomplete to your terminal
 - [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively searches directories for a regex pattern
 - [cheat](https://github.com/cheat/cheat) - Create and view interactive cheatsheets on the command-line
 - [jq](https://stedolan.github.io/jq/) - Command-line JSON processor
 - [yq](https://mikefarah.gitbook.io/yq/) - A lightweight and portable command-line YAML processor
