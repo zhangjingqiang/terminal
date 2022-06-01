@@ -6,6 +6,7 @@ brew install --cask iterm2
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 brew install --cask fig
+brew install tree
 brew install zsh
 brew install git
 brew install tig
