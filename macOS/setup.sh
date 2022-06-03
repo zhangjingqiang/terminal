@@ -14,6 +14,12 @@ brew install vim
 brew install --cask macvim
 brew install --cask emacs
 
+brew install ripgrep
+brew install fd
+brew install exa
+brew install bat
+brew install dog
+
 brew install --cask drawio
 brew install --cask postman
 
