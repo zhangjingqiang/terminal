@@ -10,6 +10,7 @@ brew install tree
 brew install zsh
 brew install git
 brew install tig
+brew install pyenv
 brew install vim
 brew install --cask macvim
 brew install --cask emacs
