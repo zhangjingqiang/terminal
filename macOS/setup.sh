@@ -2,18 +2,22 @@
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-brew install --cask iterm2
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
+
+brew install --cask iterm2
 brew install --cask fig
 brew install tree
+brew install tmux
 brew install zsh
 brew install git
 brew install tig
-brew install pyenv
+brew install jq
+brew install yq
 brew install vim
-brew install --cask macvim
-brew install --cask emacs
+brew install emacs
+brew install pyenv
+brew install macvim
 
 brew install ripgrep
 brew install fd
