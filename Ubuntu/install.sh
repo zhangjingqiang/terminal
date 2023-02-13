@@ -1,6 +1,7 @@
 #!bin/sh
 
 sudo apt-get install curl -y
+sudo apt-get install make -y
 sudo apt-get install tree -y
 sudo apt-get install vim -y
 sudo apt-get install emacs-gtk -y
