@@ -2,6 +2,7 @@
 
 - [Starship](https://starship.rs/) - Cross-Shell Prompt
 - [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator, collection, and patcher
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Fig](https://fig.io/) - Fig adds autocomplete to your terminal
 - [Tig](https://jonas.github.io/tig/) - text-mode interface for Git
 - [K9s](https://k9scli.io/) - Kubernetes CLI To Manage Your Clusters In Style!
