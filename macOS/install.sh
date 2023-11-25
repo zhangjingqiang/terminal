@@ -10,23 +10,25 @@ brew install tree
 brew install tmux
 brew install zsh
 brew install powerlevel10k
+brew install starship
 brew install git
 brew install tig
 brew install jq
 brew install yq
 brew install vim
-brew install emacs
-brew install pyenv
 brew install macvim
-
+brew install emacs
 brew install ripgrep
 brew install fd
+brew install fzf
 brew install exa
 brew install bat
 brew install dog
+brew install k9s
+brew install httpie
+brew install curlie
 
 brew install --cask drawio
 brew install --cask postman
-
 brew install --cask slack
 brew install --cask discord
