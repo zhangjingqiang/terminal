@@ -33,3 +33,4 @@ brew install --cask proxyman
 brew install --cask slack
 brew install --cask discord
 brew install --cask zoom
+brew install --cask microsoft-teams
