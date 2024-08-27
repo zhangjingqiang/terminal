@@ -21,7 +21,7 @@ sudo apt update
 sudo apt install yq -y
 sudo apt-get install httpie -y
 curl -sS https://webinstall.dev/curlie | bash
-curl -sS https://starship.rs/install.sh | sh
+# curl -sS https://starship.rs/install.sh | sh
 sudo snap install dog
 sudo snap install k9s
 
