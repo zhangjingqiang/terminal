@@ -13,8 +13,6 @@ sudo apt-get install tig -y
 sudo apt-get install ripgrep -y
 sudo apt-get install fd-find -y
 sudo apt-get install fzf -y
-sudo apt-get install bat -y
-sudo apt-get install exa -y
 sudo apt-get install jq -y
 sudo add-apt-repository ppa:rmescandon/yq -y
 sudo apt update
@@ -22,7 +20,6 @@ sudo apt install yq -y
 sudo apt-get install httpie -y
 curl -sS https://webinstall.dev/curlie | bash
 # curl -sS https://starship.rs/install.sh | sh
-sudo snap install dog
 sudo snap install k9s
 
 sudo snap install drawio
