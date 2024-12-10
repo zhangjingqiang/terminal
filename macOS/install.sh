@@ -11,7 +11,7 @@ brew install powerlevel10k
 # brew install starship
 brew install vim
 brew install macvim
-brew install emacs
+brew install --cask emacs
 brew install git
 brew install tig
 brew install jq
@@ -20,9 +20,6 @@ brew install tree
 brew install ripgrep
 brew install fd
 brew install fzf
-brew install exa
-brew install bat
-brew install dog
 brew install k9s
 brew install httpie
 brew install curlie
