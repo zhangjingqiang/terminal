@@ -1,25 +1,30 @@
 #!bin/sh
 
-sudo apt-get install curl -y
-sudo apt-get install make -y
-sudo apt-get install tree -y
-sudo apt-get install vim -y
-sudo apt-get install emacs-gtk -y
-sudo apt-get install zsh -y
-sudo apt-get install tmux -y
-sudo apt-get install git -y
-sudo apt-get install tig -y
-sudo apt-get install ripgrep -y
-sudo apt-get install fd-find -y
-sudo apt-get install fzf -y
-sudo apt-get install jq -y
-sudo add-apt-repository ppa:rmescandon/yq -y
-sudo apt update
-sudo apt install yq -y
-sudo apt-get install httpie -y
-curl -sS https://webinstall.dev/curlie | bash
-curl -sS https://starship.rs/install.sh | sh
-sudo snap install k9s
+# install homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install curl
+brew install make
+brew install tree
+brew install tmux
+brew install zsh
+# brew install powerlevel10k
+brew install starship
+brew install vim
+brew install emacs
+brew install git
+brew install tig
+brew install jq
+brew install yq
+brew install ripgrep
+brew install fd
+brew install fzf
+brew install k9s
+brew install httpie
+brew install curlie
+
+# install snap
+sudo apt install snapd
 
 sudo snap install drawio
 sudo snap install postman
