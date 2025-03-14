@@ -6,13 +6,10 @@ sudo apt-get install build-essential
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-brew install curl
-brew install make
-brew install tree
-brew install tmux
-brew install zsh
 # brew install powerlevel10k
 brew install starship
+brew install tmux
+brew install zsh
 brew install vim
 brew install emacs
 brew install git
