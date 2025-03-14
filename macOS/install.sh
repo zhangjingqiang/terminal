@@ -3,10 +3,8 @@
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 brew install --cask iterm2
-brew install --cask emacs
 brew install tmux
 brew install zsh
 brew install powerlevel10k
