@@ -5,10 +5,10 @@
 
 brew install --cask font-hack-nerd-font
 brew install --cask iterm2
-brew install tmux
-brew install zsh
 brew install powerlevel10k
 # brew install starship
+brew install tmux
+brew install zsh
 brew install vim
 brew install emacs
 brew install macvim
@@ -16,7 +16,6 @@ brew install git
 brew install tig
 brew install jq
 brew install yq
-brew install tree
 brew install ripgrep
 brew install fd
 brew install fzf
