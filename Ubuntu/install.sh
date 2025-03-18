@@ -7,8 +7,8 @@ sudo apt-get install build-essential
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 brew install --cask font-hack-nerd-font
-# brew install powerlevel10k
 brew install starship
+# brew install powerlevel10k
 brew install tmux
 brew install zsh
 brew install vim
