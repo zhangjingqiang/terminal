@@ -4,7 +4,6 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 brew install --cask font-hack-nerd-font
-brew install --cask iterm2
 brew install starship
 # brew install powerlevel10k
 brew install tmux
