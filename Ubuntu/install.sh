@@ -20,9 +20,16 @@ brew install yq
 brew install ripgrep
 brew install fd
 brew install fzf
-brew install k9s
 brew install httpie
 brew install curlie
+
+# kubernetes
+brew install kubectl
+brew install helm
+brew install k9s
+brew install kubecolor
+brew install kubectx
+brew install kube-ps1
 
 # install snap
 sudo apt install snapd
