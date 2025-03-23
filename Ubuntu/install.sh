@@ -26,6 +26,10 @@ brew install curlie
 # kubernetes
 brew install kubectl
 brew install helm
+brew install kustomize
+brew install minikube
+brew install kind
+brew install krew
 brew install k9s
 brew install kubecolor
 brew install kubectx
