@@ -34,11 +34,3 @@ brew install k9s
 brew install kubecolor
 brew install kubectx
 brew install kube-ps1
-
-# install snap
-sudo apt install snapd
-
-sudo snap install drawio
-sudo snap install postman
-sudo snap install slack
-sudo snap install discord
