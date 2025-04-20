@@ -31,11 +31,3 @@ brew install k9s
 brew install kubecolor
 brew install kubectx
 brew install kube-ps1
-
-brew install --cask drawio
-brew install --cask postman
-brew install --cask proxyman
-brew install --cask slack
-brew install --cask discord
-brew install --cask zoom
-brew install --cask microsoft-teams
