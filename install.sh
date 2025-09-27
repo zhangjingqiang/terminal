@@ -4,9 +4,8 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 brew install --cask font-hack-nerd-font
-brew install starship
 # brew install powerlevel10k
-brew install gcc
+# brew install starship
 brew install tmux
 brew install zsh
 brew install vim
@@ -18,6 +17,7 @@ brew install yq
 brew install ripgrep
 brew install fd
 brew install fzf
+brew install doggo
 brew install httpie
 brew install curlie
 
@@ -32,6 +32,3 @@ brew install k9s
 brew install kubecolor
 brew install kubectx
 brew install kube-ps1
-
-# SaaS
-brew install gh
