@@ -32,3 +32,9 @@ brew install k9s
 brew install kubecolor
 brew install kubectx
 brew install kube-ps1
+
+# Programming Languages
+brew install rbenv
+brew install pyenv
+brew install goenv
+brew install nvm
