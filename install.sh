@@ -37,4 +37,4 @@ brew install kube-ps1
 brew install rbenv
 brew install pyenv
 brew install goenv
-brew install nvm
+brew install nodenv
