@@ -19,6 +19,7 @@ brew install ctags
 brew install doggo
 brew install httpie
 brew install curlie
+brew install grpcurl
 
 # Kubernetes
 brew install kubectl
