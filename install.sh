@@ -38,3 +38,4 @@ brew install rbenv
 brew install pyenv
 brew install goenv
 brew install nodenv
+brew install rustup
