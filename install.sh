@@ -16,6 +16,7 @@ brew install ripgrep
 brew install fd
 brew install fzf
 brew install ctags
+brew install ranger
 brew install doggo
 brew install httpie
 brew install curlie
